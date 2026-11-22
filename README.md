@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Next trip (links to PackRight and Daymark) |
 | Cadence | Per trip |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Settle-up handshake and an 'all square!' stamp
+
+**Line we don't cross:** No drama about who owes money.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
