@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Next trip (links to PackRight and Daymark) |
 | Cadence | Per trip |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Settle-up handshake and an 'all square!' stamp
+- Settled up: two stickmen shake hands and an 'ALL SQUARE!' stamp lands
+- Expense added: the receipt flies into the pot
+- Trip complete: the suitcase stamps itself with a sticker
+- Friend joins: stickmen pile into a tiny car
+- Currency switched: coins spin and change colour
 
 **Line we don't cross:** No drama about who owes money.
 
