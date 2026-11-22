@@ -34,7 +34,7 @@ Create a trip, add friends, log who paid for what (equal, uneven or percentage s
 | Premium | £4.99 one-off: unlimited trips, exports, currencies |
 | Ads | Light |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -67,6 +67,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app + Supabase (everyone needs to see the same data).
 - **Data:** Supabase: multi-user by nature.
+- **Backend:** Shared data from day one: everyone on the trip sees the same expenses. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
