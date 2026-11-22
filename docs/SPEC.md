@@ -1,60 +1,77 @@
 # TripSplit: Spec
 
-**Rank in portfolio:** #14 of 15 (easiest → hardest) · **Difficulty:** Medium
+**Split group trip costs and settle up fast** · #29 of 33 in the build order · Harder · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
 
 ## One-liner
 
-Split group trip costs and see who owes who.
+Create a trip, add friends, log who paid for what (equal, uneven or percentage splits), and TripSplit works out the fewest payments to settle up. Works offline; share by link.
 
 ## Problem / audience
 
-- **Who it's for:** Friends on holidays, stag/hen trips, house-shares, festivals.
-- **The problem it solves:** Groups lose track of who paid for what and who owes who.
+- **Who it's for:** Friend groups, couples, stag and hen groups, festival-goers, families.
+- **The problem it solves:** Groups lose track of who paid for what and who owes whom.
+- **Example:** Four friends log hotels, taxis, food and tickets, and at the end the app says exactly who pays whom.
 
 ## MVP features (ship with only these)
 
-1. Create a trip, add people
-2. Log expenses (who paid, split equally or custom)
-3. Balances and minimal settle-up (fewest transfers)
-4. Share trip via link
+1. Trips with participants
+2. Expenses with equal, uneven or percentage splits
+3. Simplified debts (fewest transfers)
+4. Summary export as an image or PDF
+5. Works offline; share by link
 
 ## Not in MVP
 
 - Multi-currency
-- Exports (CSV/PDF)
 - Unlimited trip history
+- Premium themes
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
 | Free | Trips, with ads |
-| Paid | £2.99 per trip or £1.99/month: exports, currencies, history |
+| Premium | £4.99 one-off: unlimited trips, exports, currencies |
 | Ads | Light |
 
-Prices are starting points from the portfolio brief; test before committing.
+Prices are starting points; test before committing.
 
-## Platform & stack
+## Retention: The Progression Loop
 
-- **Platform:** Expo + Supabase (everyone in the group needs to see the same data).
-- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob). See the portfolio roadmap.
+| Stage | Design |
+|---|---|
+| Cue | Active trip; settle-up reminder |
+| Tiny win | Log an expense |
+| Progress | Balances settling |
+| Share | Every trip invites the group |
+| Next step | Next trip (links to PackRight and Daymark) |
+| Cadence | Per trip |
+
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
+
+## Platform & data
+
+- **Platform:** Expo app + Supabase (everyone needs to see the same data).
 - **Data:** Supabase: multi-user by nature.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
-## Growth engine hooks
+## Growth engine
 
-- **Shareable output:** Every trip invites the whole group: built-in distribution.
 - **Content pillars:** Group travel money; Awkward money conversations; Trip budgeting
+- **Shareable output:** Every trip invites the group
 
-## Notes
+## Risks
 
-Strong built-in virality (every user invites friends), but needs accounts, sync and a correct settle-up algorithm. Competes with Splitwise.
+Needs accounts, sync and a correct settle-up algorithm. Quiet between trips.
 
 ## Launch checklist
 
-- [ ] Name checked on App Store / Play Store / trademark search
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config

@@ -1,22 +1,70 @@
 # TripSplit
 
-Split group trip costs and see who owes who
+**Split group trip costs and settle up fast**
 
-## Status
+> #29 of 33 in the build order · Harder · Revenue potential: Medium · Plans, Trips & Occasions
 
-Planning. #14 of 15 in the portfolio build order (medium). See [`docs/SPEC.md`](docs/SPEC.md).
+## What it is
+
+Create a trip, add friends, log who paid for what (equal, uneven or percentage splits), and TripSplit works out the fewest payments to settle up. Works offline; share by link.
+
+## Why it's in the portfolio
+
+Every trip invites the whole group, so it spreads itself. Strong during a trip, and pairs with PackRight and Daymark. It competes with Splitwise, so it stays simple and trip-focused.
+
+## Who it's for
+
+Friend groups, couples, stag and hen groups, festival-goers, families.
+
+**The problem:** Groups lose track of who paid for what and who owes whom.
+
+## Version one
+
+- Trips with participants
+- Expenses with equal, uneven or percentage splits
+- Simplified debts (fewest transfers)
+- Summary export as an image or PDF
+- Works offline; share by link
+
+**Example:** Four friends log hotels, taxis, food and tickets, and at the end the app says exactly who pays whom.
+
+## Later
+
+- Multi-currency
+- Unlimited trip history
+- Premium themes
 
 ## How it makes money
 
-- **Free:** Trips, with ads
-- **Paid:** £2.99 per trip or £1.99/month: exports, currencies, history
-- **Ads:** Light
+| Model | Detail |
+|---|---|
+| Free | Trips, with ads |
+| Premium | £4.99 one-off: unlimited trips, exports, currencies |
+| Ads | Light |
 
-## Run locally
+## Why people come back
 
-_Added once the app is scaffolded._
+Built on **The Progression Loop**, the portfolio's shared retention framework
+(streaks with forgiveness, visible progress, milestones, recaps, no guilt-trips).
+
+| Stage | In TripSplit |
+|---|---|
+| Cue | Active trip; settle-up reminder |
+| Tiny win | Log an expense |
+| Progress | Balances settling |
+| Share | Every trip invites the group |
+| Next step | Next trip (links to PackRight and Daymark) |
+| Cadence | Per trip |
+
+## Watch-outs
+
+Needs accounts, sync and a correct settle-up algorithm. Quiet between trips.
+
+## Status
+
+Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of the App Portfolio. Marketing runs through the shared
-[growth-engine](https://github.com/tadagambura/growth-engine).
+Part of a portfolio of 33 small consumer apps that share one codebase, one retention module
+and one marketing system ([growth-engine](https://github.com/tadagambura/growth-engine)).
