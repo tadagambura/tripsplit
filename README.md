@@ -4,11 +4,13 @@ Split group trip costs and see who owes who
 
 ## Status
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+Planning. #14 of 15 in the portfolio build order (medium). See [`docs/SPEC.md`](docs/SPEC.md).
 
 ## How it makes money
 
-_TBD, see SPEC._
+- **Free:** Trips, with ads
+- **Paid:** £2.99 per trip or £1.99/month: exports, currencies, history
+- **Ads:** Light
 
 ## Run locally
 
