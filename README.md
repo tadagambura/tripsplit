@@ -2,7 +2,7 @@
 
 **Split group trip costs and settle up fast**
 
-> #29 of 33 in the build order · Harder · Revenue potential: Medium · Plans, Trips & Occasions
+> #30 of 33 · Wave 3: Seasonal and episodic · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Every trip invites the group |
 | Next step | Next trip (links to PackRight and Daymark) |
 | Cadence | Per trip |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
