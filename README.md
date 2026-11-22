@@ -42,6 +42,8 @@ Friend groups, couples, stag and hen groups, festival-goers, families.
 | Premium | £4.99 one-off: unlimited trips, exports, currencies |
 | Ads | Light |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
