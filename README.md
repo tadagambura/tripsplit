@@ -2,7 +2,7 @@
 
 **Split group trip costs and settle up fast**
 
-> #28 of 31 · Wave 3: Seasonal and episodic · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions
+> #16 of 16 · Wave 3: Later · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -84,5 +84,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
