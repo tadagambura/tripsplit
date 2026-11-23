@@ -2,7 +2,7 @@
 
 **Split group trip costs and settle up fast**
 
-> #16 of 16 · Wave 3: Later · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions
+> #15 of 15 · Wave 3: Later · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -10,7 +10,7 @@ Create a trip, add friends, log who paid for what (equal, uneven or percentage s
 
 ## Why it's in the portfolio
 
-Every trip invites the whole group, so it spreads itself. Strong during a trip, and pairs with PackRight and Daymark. It competes with Splitwise, so it stays simple and trip-focused.
+Every trip invites the whole group, so it spreads itself. Strong during a trip, and pairs with Daymark and Daymark. It competes with Splitwise, so it stays simple and trip-focused.
 
 ## Who it's for
 
@@ -84,5 +84,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
