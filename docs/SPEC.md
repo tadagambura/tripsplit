@@ -1,6 +1,6 @@
 # TripSplit: Spec
 
-**Split group trip costs and settle up fast** · #15 of 15 · Wave 3: Later · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
+**Split group trip costs and settle up fast** · #15 of 15 · Wave 2: Recurring keepers · Used: Per trip · Harder · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
 
 ## One-liner
 
