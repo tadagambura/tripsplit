@@ -54,7 +54,7 @@ never wiped, at most one notification a day by default.
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Settled up: two stickmen shake hands and an 'ALL SQUARE!' stamp lands
+- Settled up: Kaos and a friend shake hands and an 'ALL SQUARE!' stamp lands
 - Expense added: the receipt flies into the pot
 - Trip complete: the suitcase stamps itself with a sticker
 - Friend joins: stickmen pile into a tiny car
